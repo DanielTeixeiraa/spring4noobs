@@ -14,10 +14,10 @@
 
 ### Conhecendo o Spring
 
-0. [Boas Vindas](https://github.com/Paintxd/spring4noobs/blob/master/docs/1-Conhecendo-o-spring/boas-vindas.md)
-1. [O que é o Spring](https://github.com/Paintxd/spring4noobs/blob/master/docs/1-Conhecendo-o-spring/o-que-e-o-spring.md)
-2. [Spring initializr](https://github.com/Paintxd/spring4noobs/blob/master/docs/1-Conhecendo-o-spring/spring-initializr.md)
-3. [Dependencias do Projeto](https://github.com/Paintxd/spring4noobs/blob/master/docs/1-Conhecendo-o-spring/dependencias-do-projeto.md)
+0. [Boas Vindas](https://github.com/Paintxd/spring4noobs/blob/master/docs/1-Conhecendo-o-Spring/boas-vindas.md)
+1. [O que é o Spring](https://github.com/Paintxd/spring4noobs/blob/master/docs/1-Conhecendo-o-Spring/o-que-e-o-spring.md)
+2. [Spring initializr](https://github.com/Paintxd/spring4noobs/blob/master/docs/1-Conhecendo-o-Spring/spring-initializr.md)
+3. [Dependencias do Projeto](https://github.com/Paintxd/spring4noobs/blob/master/docs/1-Conhecendo-o-Spring/dependencias-do-projeto.md)
 
 ### Iniciando com Spring
 
