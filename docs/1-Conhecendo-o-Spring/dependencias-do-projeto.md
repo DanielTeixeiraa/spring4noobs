@@ -28,14 +28,14 @@ O driver de conexão com nosso banco de dados, caso opte pelo PostgreSQL, apenas
 Template engine para ssr, nos oferece uma vasta gama de tags para deixar nosso HTML top
 
 ### Lombok
-Nos propociona annotations para deixar nosso codigo muito mais enxuto e menos massante
+Nos proporciona annotations para deixar nosso codigo muito mais enxuto e menos massante
 
 ### Dependencias no site
 <p align="center">
     <img src="../../assets/initializr-dependencies.png" alt="initializr dependencies">
 </p>
 
-### Dpendencias na IDE
+### Dependencias na IDE
 <p align="center">
     <img src="../../assets/sts-dependencies.png" alt="sts dependencies">
 </p>
