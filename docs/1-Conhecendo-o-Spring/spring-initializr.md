@@ -1,6 +1,6 @@
 # Spring Initializr
 
-O spring initializr é uma ferramenta muito poderosa, utilizada para gerar a estrutura inicial do nosso projeto, podemos fazer uso dessa inicialização pelo site ou pela IDE proposta. Darei agora uma explicação das configurações e ao final desse capitulo disponibilizo um print com a configuração feita.
+O [spring initializr](https://start.spring.io) é uma ferramenta muito poderosa, utilizada para gerar a estrutura inicial do nosso projeto, podemos fazer uso dessa inicialização pelo site ou pela IDE proposta. Darei agora uma explicação das configurações e ao final desse capitulo disponibilizo um print com a configuração feita.
 
  * Automatizador de Compilação
  * Linguagem
@@ -45,4 +45,6 @@ O packing é relacionado a o que você ira gerar após o termino do projeto para
 </p>
 
 ### Dependencias
-Abordaremos as dependencias no proximo topico, te espero lá
+Abordaremos as dependencias no proximo topico, te espero lá 
+
+[Proxima seção](./dependencias-do-projeto.md)

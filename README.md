@@ -17,7 +17,7 @@
 O projeto proposto neste 4noobs será um sistema para controle de estoque de uma loja de materiais de construção _He4rtConstruções_, a partir deste projeto estaremos obtendo conhecimento de CRUD (Create (Criação), Read (Consulta), Update (Atualização) e Delete (Exclusão)) em banco de dados, conhecimento sobre padrão MVC(Model, View e Controller) e conhecimento sobre criação de API no padrão REST
 
 ## Conteudo
- * O conteudo para estudo pode ser encontrado [Aqui](https://github.com/Paintxd/spring4noobs/tree/master/docs)
+ * O conteudo para estudo pode ser encontrado [Aqui](/docs/README.md)
 
 ## Autores
  * Matheus Giordani (Paint) - _Back-end Developer_ - [Twitter](https://twitter.com/Paintao)
