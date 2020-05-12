@@ -27,4 +27,16 @@
 ### Iniciando nossa aplicação
 #### Após fazer todo o conteudo anteriormente falado, retorne ao package principal selecione a nossa main classe _HeartconstrucoesApplication.java_ de um click com o botão direito -> Run as -> Java Application, isso deve iniciar o nosso container do tomcat e se tudo ocorrer nos conformes e você não tiver nada rodando na porta _:8080_ sua aplicação já está rodando, basta acessar _localhost:8080/hello_ e ai está o seu _Hello World!_
 
-[Proxima seção](#link-prox-secão)
+#### Está devera ser a estrutura da classe _HelloController_ e de pastas com que você ficará após este modulo
+
+<p align="center">
+    <img src="../../assets/hello-controller.png" alt="hello controller">
+</p>
+
+<p align="center">
+    <img src="../../assets/2-hello-world-estrutura.png" alt="estrutura packages">
+</p>
+
+> O HTML é simples, então creio que você já saiba fazer um hello world simples
+
+[Proxima seção](./thymeleaf-e-model.md)
