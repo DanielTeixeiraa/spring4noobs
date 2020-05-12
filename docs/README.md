@@ -22,3 +22,4 @@
 ### Iniciando com Spring
 
 1. [Estrutura inicial](./2-Iniciando-com-Spring/estrutura-inicial.md)
+2. [Hello world!](./2-Iniciando-com-Spring/hello-world.md)
