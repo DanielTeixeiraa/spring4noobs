@@ -1,6 +1,6 @@
 # Spring Initializr
 
-O [spring initializr](https://start.spring.io) é uma ferramenta muito poderosa, utilizada para gerar a estrutura inicial do nosso projeto, podemos fazer uso dessa inicialização pelo site ou pela IDE proposta. Darei agora uma explicação das configurações e ao final desse capitulo disponibilizo um print com a configuração feita.
+O spring initializr é uma ferramenta muito poderosa, utilizada para gerar a estrutura inicial do nosso projeto, podemos fazer uso dessa inicialização pelo [site](https://start.spring.io), ou pela IDE selecionando _file -> new -> Spring starter project_ . Darei agora uma explicação das configurações e ao final desse capitulo disponibilizo um print com a configuração feita.
 
  * Automatizador de Compilação
  * Linguagem
