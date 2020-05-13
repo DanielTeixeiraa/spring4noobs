@@ -24,3 +24,4 @@
 1. [Estrutura inicial](./2-Iniciando-com-Spring/estrutura-inicial.md)
 2. [Hello world!](./2-Iniciando-com-Spring/hello-world.md)
 3. [Thymeleaf e Model](./2-Iniciando-com-Spring/thymeleaf-e-model.md)
+3. [Thymeleaf Tags](./2-Iniciando-com-Spring/thymeleaf-tags.md)
