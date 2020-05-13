@@ -52,4 +52,4 @@ public class HelloController {
 <p>Hello World!</p>
 ```
 
-[Proxima seção](#link-prox-secao)
+[Proxima seção](./thymeleaf-tags.md)
