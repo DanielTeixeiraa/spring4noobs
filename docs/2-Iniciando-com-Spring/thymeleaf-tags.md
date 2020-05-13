@@ -57,6 +57,6 @@ public String helloLista(Model model) {
 </ul>
 ```
 
-> www.baeldung.com/spring-thymeleaf-conditionals   _link externo para referencia_
+> www.baeldung.com/spring-thymeleaf-conditionals   _link externo para referencias_
 
-[Proximo Topico](#)
+[Proximo Topico](../3-Spring-data/conexao-com-banco.md)

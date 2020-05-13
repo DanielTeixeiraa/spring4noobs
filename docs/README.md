@@ -25,3 +25,8 @@
 2. [Hello world!](./2-Iniciando-com-Spring/hello-world.md)
 3. [Thymeleaf e Model](./2-Iniciando-com-Spring/thymeleaf-e-model.md)
 3. [Thymeleaf Tags](./2-Iniciando-com-Spring/thymeleaf-tags.md)
+
+### Spring Data
+
+0. [Conexao com Banco](./3-Spring-data/conexao-com-banco.md)
+1. [Comecando com Banco](./3-Spring-data/comecando-com-banco.md)
