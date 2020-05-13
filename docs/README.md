@@ -2,7 +2,7 @@
     <img src="../assets/springboot.png" alt="spring logo" width="200" height="50">
 </p>
 
-<h3 align="center">Introdução ao frameowrk spring</h3>
+<h3 align="center">Introdução ao framework spring</h3>
 
 ***
 
