@@ -1,3 +1,5 @@
+## _Aproveite para deletar os exemplos anteriores, pois a partir de agora iremos codar diretamente coisas relacionadas ao nosso projeto _Heart Construções_._
+
 # Project Lombok
 
 #### Primeiramente, faça import da dependencia:
@@ -12,8 +14,6 @@
 #### A biblioteca lombok é uma biblioteca muito util quando se trata de codigo limpo e legivel.
 
 #### Está biblioteca transforma dezenas de linhas de codigo em simples annotations, como veremos no exemplo a seguir.
-
->Aproveite para deletar os exemplos anteriores, por a partir de agora iremos codar diretamente coisas relacionadas ao nosso projeto _Heart Construções_.
 
 #### Começaremos com uma simples classe Produto, com dois campos, nome, preco e um construtor para estes campos
 
