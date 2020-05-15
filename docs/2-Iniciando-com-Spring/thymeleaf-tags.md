@@ -73,4 +73,4 @@ public String helloLista(Model model) {
 
 > www.baeldung.com/spring-thymeleaf-conditionals   _link externo para referencias_
 
-[Proximo Topico](../3-Spring-data/conexao-com-banco.md)
+[Proxima seção](./project-lombok.md)

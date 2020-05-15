@@ -1,3 +1,3 @@
-# Comecando com Banco de Dados
+# Começando com Banco de Dados
 
 [Proxima seção](#)

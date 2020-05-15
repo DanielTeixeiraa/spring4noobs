@@ -70,6 +70,7 @@ spring.datasource.driverClassName = org.postgresql.Driver
 spring.jpa.hibernate.dialect = org.hibernate.dialect.PostgreSQLDialect
 spring.datasource.url = jdbc:postgresql://localhost:5432/heartconstrucoes
 ```
+> Lembrando que para a conexão funcionar você precisa ter a tabela heartconstrucoes criada no seu banco
 #### Configurações gerais
 ```
 spring.datasource.username = root
