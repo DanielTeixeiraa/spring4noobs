@@ -3,6 +3,20 @@
 ### Estrutura de repetição
 #### Uma estrutura que você provavelmente fará muito uso durante a criação de seus templates para exibir listas, para isso, iremos introduzir um novo sistema, o sistema de Models.
 #### Crie uma package _models_, que será responsavel por agrupar nossos models, usaremos como exemplo aqui a classe Pessoa, ela possuira dois simples atributos, nome e idade, aproveite também para gerar um construtor com os atributos e seus getters e setters.
+```java
+public class Pessoa {
+	
+	private String nome;
+	private Integer idade;
+
+	public Pessoa(String nome, Integer idade) {
+		this.nome = nome;
+		this.idade = idade;
+	}
+
+// Getters e setters omitidos
+}
+```
 #### Após a criação do nosso primeiro model, retorne para o controller e crie o metodo _helloLista_ com um mapping para _/lista_ já adicionando o atributo _Model_ e o retorno para a nossa view _helloworld_.
 ```java
 @GetMapping("/lista")
