@@ -68,7 +68,7 @@ public class Estoque {
 	private Long id;
 
 	@OneToOne()
-  @MapsId
+    @MapsId
 	private Produto produto;
 
 	@Column()
