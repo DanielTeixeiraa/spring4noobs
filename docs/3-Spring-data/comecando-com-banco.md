@@ -65,10 +65,10 @@ public class Produto {
 public class Estoque {
 
 	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
 
 	@OneToOne()
+  @MapsId
 	private Produto produto;
 
 	@Column()
@@ -83,5 +83,7 @@ public class Estoque {
 ```
 #### Aqui podemos perceber a adição de uma nova annotation, _@OneToOne()_, esta faz parte das annotations de relacionamento.
 #### No spring data possuimos annotations para todos os relacionamentos entre tabela: _OneToOne_, _OneToMany_, _ManyToOne_, _ManyToMany_, entre outros não muito utilizados.
+
+#### Reparem também que aqui não possuimos um _GeneratedType_ pois nosso Id será o Id do produto, declaramos isso através do _@MapsId_ no atributo produto, uma melhor forma de fazer um mapeamento _OneToOne_.
 
 [Proxima seção](#)
