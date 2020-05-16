@@ -31,3 +31,4 @@
 
 0. [Conexao com Banco](./3-Spring-data/conexao-com-banco.md)
 1. [Comecando com Banco](./3-Spring-data/comecando-com-banco.md)
+2. [Repository](./3-Spring-data/repository.md)
