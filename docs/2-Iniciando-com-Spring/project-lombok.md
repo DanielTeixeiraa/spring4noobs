@@ -11,6 +11,8 @@
 ```
 > Caso esteja fazendo uso da nossa IDE STS, basta clicar com o botão direito sobre o seu projeto ir em _Spring -> Edit Starters_ selecionar a dependencia e dar um ok.
 
+#### Segundamente faça a config do lombok em sua IDE, baixe [aqui](https://projectlombok.org/download) selecione o local da sua IDE de um install e reinicie-a.
+
 #### A biblioteca lombok é uma biblioteca muito util quando se trata de codigo limpo e legivel.
 
 #### Está biblioteca transforma dezenas de linhas de codigo em simples annotations, como veremos no exemplo a seguir.
