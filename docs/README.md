@@ -36,3 +36,9 @@
 ### Projeto
 
 1. [Listagem de estoque](./4-Projeto/listagem-estoque.md)
+2. [Cadastro de produto](./4-Projeto/cadastro-produto.md)
+3. [Cadastro e update de estoque](./4-Projeto/cadastro-update-estoque.md)
+4. [Update de produto](./4-Projeto/update-produto.md)
+5. [Deletes](./4-Projeto/deletes.md)
+
+### Topicos Avançados
